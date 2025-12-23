@@ -6,10 +6,10 @@ const Hero = () => {
             <div className="container" style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', width: '100%', flexDirection: 'inherit' }}>
                 <div className="hero-content">
                     <h1 className="hero-title">
-                        Share your <span className="gradient-text">moments</span> with the world
+                        Connect. Share. <br /><span className="gradient-text">Discover.</span>
                     </h1>
                     <p className="hero-subtitle">
-                        Connect with friends, share your stories, and discover inspiring content from people around the globe.
+                        Instagram helps you connect with people and communities you love.
                     </p>
                     <div className="hero-buttons">
                         <button className="btn btn-primary" style={{ fontSize: '18px', padding: '16px 32px' }}>
